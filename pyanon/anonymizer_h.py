@@ -1,6 +1,6 @@
 """
 ---------------------------------------------------
-Author: Nick Hopewell <nicholas.hopewell@cic.gc.ca>
+Author: Nick Hopewell <nicholashopewell@gmail.com>
 
 pyanon_h.py (Contains: 9 functions)
 
